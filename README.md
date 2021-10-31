@@ -40,3 +40,5 @@ Description of project: Create a simple calendar application that allows a user 
 * [jQuery Docs](https://api.jquery.com/)
 
 * [YouTube](https://www.youtube.com/)
+# DayPlanner
+Initial Release
